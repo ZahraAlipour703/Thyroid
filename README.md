@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+<p align="center">
+  <img src="figures/th.png" alt="Project Banner" width="900">
+</p>
 ---
 
 ## 📌 Overview
